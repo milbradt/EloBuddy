@@ -1,0 +1,5 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\EloBuddy-Addons-master\Nto-Talon\NtoTalon\bin\Debug\AddonTemplate.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\EloBuddy-Addons-master\Nto-Talon\NtoTalon\obj\Debug\Nto-Talon.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\EloBuddy-Addons-master\Nto-Talon\Nto-Talon\bin\Debug\AddonTemplate.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\EloBuddy-Addons-master\Nto-Talon\Nto-Talon\obj\Debug\Nto-Talon.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\EloBuddy-Addons-master\NtoTalon\NtoTalon\bin\Debug\AddonTemplate.exe.config
